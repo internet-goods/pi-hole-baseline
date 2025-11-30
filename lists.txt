@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/pro.txt
+https://big.oisd.nl
+https://blocklistproject.github.io/Lists/ads.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt
