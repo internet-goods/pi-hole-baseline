@@ -1,0 +1,2 @@
+ipify.org
+api.ipify.org
