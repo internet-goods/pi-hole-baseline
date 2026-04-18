@@ -1,2 +1,4 @@
 ipify.org
 api.ipify.org
+ipconfig.me
+icanhazip.com
